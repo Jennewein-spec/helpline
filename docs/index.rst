@@ -8,7 +8,7 @@ Whether you're reinstalling it or installing it for the first time with an exist
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://baselinkhelp.click/desktop-gold-software/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with AOL Gold</a>
+       <a href="https://myaolgold.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with AOL Gold</a>
    </div>
 
 How to Download AOL Gold Desktop Existing Account?
